@@ -19,7 +19,7 @@ psycopg2==2.9.3
 PyDictionary==2.0.1
 python-decouple==3.6
 pytz==2020.4
-requests==2.25.0
+requests==2.31.0
 shortuuid==1.0.1
 soupsieve==2.1
 sqlparse==0.4.4
