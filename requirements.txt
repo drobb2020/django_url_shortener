@@ -12,7 +12,7 @@ psycopg2==2.9.9
 PyDictionary==2.0.1
 python-decouple==3.8
 pytz==2024.1
-requests==2.31.0
+requests==2.32.0
 shortuuid==1.0.11
 soupsieve==2.5
 urllib3==2.2.0
